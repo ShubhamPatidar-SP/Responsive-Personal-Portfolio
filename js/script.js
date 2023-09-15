@@ -50,9 +50,9 @@ ScrollReveal().reveal('.home-content p, .about-content, .portfolio-box', { origi
 
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Student At MANIT Bhopal', 'Frontend Developer'],
+    strings: ['Student At MANIT Bhopal','Problem Solver', 'Full-Stack Developer','Machine Learning Enthusiast','Curious Explorer','Tech Geek','Team Player'],
     typeSpeeds: 100, 
     backSpeed: 100,
-    backDelay: 1000,
+    backDelay: 800,
     loop: true,
   });
